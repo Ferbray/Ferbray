@@ -42,7 +42,7 @@
 		<!-- <img src="https://img.shields.io/badge/mariadb-violet.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/> -->
 		<img src="https://img.shields.io/badge/rabbitmq-violet.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 		<img src="https://img.shields.io/badge/mssql-violet.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-		<img src="https://img.shields.io/badge/wepback-violet.svg?&style=for-the-badge&logo=webpack&logoColor=white"/>
+		<img src="https://img.shields.io/badge/webpack-violet.svg?&style=for-the-badge&logo=webpack&logoColor=white"/>
 		<img src="https://img.shields.io/badge/nginx-violet.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 	</div>
 </div>
