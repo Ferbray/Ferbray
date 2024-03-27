@@ -57,6 +57,13 @@
 </div>
 <div>
 	<hr>
+	<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&color=F700B8&repeat=false&random=false&width=155&height=40&lines=%F0%9D%92%AE%F0%9D%93%89%F0%9D%92%B6%F0%9D%93%89%F0%9D%92%BE%F0%9D%93%88%F0%9D%93%89%F0%9D%92%BE%F0%9D%92%B8" alt="Typing SVG" /></a></h2>
+	![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ferbray&theme=default)
+	![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ferbray&theme=jolly)
+	![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ferbray&theme=jolly&utcOffset=8)
+</div>
+<div>
+	<hr>
 	<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&color=F700B8&repeat=false&random=false&width=325&height=40&lines=%F0%9D%92%AF%F0%9D%92%BD%F0%9D%92%B6%F0%9D%93%83%F0%9D%93%80+%F0%9D%92%BB%F0%9D%91%9C%F0%9D%93%87+%F0%9D%93%87%F0%9D%91%92%F0%9D%92%B6%F0%9D%92%B9%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%94!" alt="Typing SVG" /></a></h2>
 </div>
 </body>
