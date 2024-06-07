@@ -22,7 +22,7 @@
 	<br>
 	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&color=F700B8&repeat=false&random=false&width=460&height=27&lines=-+Hobbys%3A+Design%2C+Algrotihms%2C+Typing+Text" alt="Typing SVG" /></a>
 	<br>
-	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&color=F700B8&repeat=false&random=false&width=300&height=27&lines=-+Working%3A+InCase%2C+TechCrew" alt="Typing SVG" /></a>
+	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&color=F700B8&repeat=false&random=false&width=390&height=27&lines=-+Working%3A+InCase%2C+TechCrew%2C+Nexign" alt="Typing SVG" /></a>
 </div>
 <div>
 	<hr>
