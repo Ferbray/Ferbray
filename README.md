@@ -50,7 +50,7 @@
 	<hr>
 	<h2 align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&color=F700B8&repeat=false&random=false&width=185&height=40&lines=%F0%9D%92%9E%F0%9D%91%9C%F0%9D%93%83%F0%9D%93%89%F0%9D%92%B6%F0%9D%92%B8%F0%9D%93%89+%F0%9D%91%80%F0%9D%91%92" alt="Typing SVG" /></a></h2>
 	<div align="center">
-		<a href="https://t.me/x_DarkBull_x">
+		<a href="https://t.me/in_case_offers">
 			<img src="https://img.shields.io/badge/telegram-violet.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
 		</a>
 	</div>
