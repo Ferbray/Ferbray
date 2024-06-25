@@ -8,9 +8,9 @@
 	<div align="center">
 		<img width="250" height="150" src="https://media1.tenor.com/m/K-U-GveR4DUAAAAd/tengen-uzui-tengen-wives.gif" align="right">
 	</div>
-	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&color=F700B8&repeat=false&random=false&width=140&height=27&lines=-+Name%3A+Ivan" alt="Typing SVG" /></a>
+	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&color=F700B8&repeat=false&random=false&width=290&height=27&lines=-+Name%3A+Ivan%2C+GIS%2C+Ferbray" alt="Typing SVG" /></a>
 	<br>
-	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=F700B8&repeat=false&random=false&height=27&lines=-+Loves%3A+APFS%2C+Keyboards%2C+Fresh+Ideas" alt="Typing SVG" /></a>
+	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&color=F700B8&repeat=false&random=false&height=27&lines=-+Loves%3A+.NET%2C+Keyboards%2C+Fresh+Ideas" alt="Typing SVG" /></a>
 	<br>
 	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1000&color=F700B8&repeat=false&random=false&width=230&height=27&lines=-+Gender%3A+He%2FHis%2FMale" alt="Typing SVG" /></a>
 	<br>
