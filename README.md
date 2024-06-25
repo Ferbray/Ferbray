@@ -2,17 +2,11 @@
 <div align="center">
 	<img src="1.gif">
 </div>
-<div align="center">
-	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&color=F700B8&repeat=false&random=false&width=435&height=27&lines=%F0%9D%92%9C%F0%9D%93%83%F0%9D%92%B9+%F0%9D%92%B6%F0%9D%93%89+%F0%9D%93%89%F0%9D%92%BD%F0%9D%91%92+%F0%9D%92%BB%F0%9D%92%B6%F0%9D%92%B8%F0%9D%93%89%F0%9D%91%9C%F0%9D%93%87%F0%9D%93%8E+%F0%9D%91%9C%F0%9D%93%87+%F0%9D%92%BE%F0%9D%93%83+%F0%9D%93%85%F0%9D%93%8A%F0%9D%92%B7%F0%9D%93%88%2C+%F0%9D%93%81%F0%9D%92%B6%F0%9D%93%8A%F0%9D%91%94%F0%9D%92%BD%F0%9D%93%89%F0%9D%91%92%F0%9D%93%87+%F0%9D%92%BE%F0%9D%93%83+%F0%9D%93%89%F0%9D%92%BD%F0%9D%91%92+%F0%9D%92%B8%F0%9D%93%81%F0%9D%91%9C%F0%9D%93%8A%F0%9D%92%B9%F0%9D%93%88" alt="Typing SVG" /></a>
-	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&color=F700B8&repeat=false&random=false&width=520&height=27&lines=%F0%9D%92%AF%F0%9D%91%9C+%F0%9D%92%B7%F0%9D%91%92+%F0%9D%91%92%F0%9D%92%B8%F0%9D%92%BD%F0%9D%91%9C%F0%9D%91%92%F0%9D%92%B9+%F0%9D%92%BE%F0%9D%93%83%F0%9D%93%89%F0%9D%91%9C+%F0%9D%92%B7%F0%9D%91%9C%F0%9D%93%8D%F0%9D%91%92%F0%9D%93%88+%F0%9D%92%BB%F0%9D%93%87%F0%9D%91%9C%F0%9D%93%82+%F0%9D%93%8A%F0%9D%93%83%F0%9D%92%B9%F0%9D%91%92%F0%9D%93%87+%F0%9D%93%89%F0%9D%92%BD%F0%9D%91%92+%F0%9D%92%BD%F0%9D%93%8A%F0%9D%93%82%F0%9D%92%B6%F0%9D%93%83+%F0%9D%93%8C%F0%9D%91%9C%F0%9D%93%87%F0%9D%93%81%F0%9D%92%B9" alt="Typing SVG" /></a>
-	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&color=F700B8&repeat=false&random=false&width=435&height=27&lines=%F0%9D%91%80%F0%9D%91%9C%F0%9D%93%81%F0%9D%92%B9+%F0%9D%91%9C%F0%9D%93%83+%F0%9D%93%89%F0%9D%92%BD%F0%9D%91%92+%F0%9D%93%89%F0%9D%93%87%F0%9D%92%B6%F0%9D%93%88%F0%9D%92%BD+%F0%9D%91%9C%F0%9D%92%BB+%F0%9D%93%8A%F0%9D%93%83%F0%9D%92%B9%F0%9D%91%92%F0%9D%93%87%F0%9D%91%94%F0%9D%93%87%F0%9D%91%9C%F0%9D%93%8A%F0%9D%93%83%F0%9D%92%B9+%F0%9D%93%87%F0%9D%92%B6%F0%9D%93%85" alt="Typing SVG" /></a>
-	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=F700B8&repeat=false&random=false&width=450&height=27&lines=%F0%9D%92%9C%F0%9D%93%85%F0%9D%93%85%F0%9D%93%87%F0%9D%91%9C%F0%9D%92%B6%F0%9D%92%B8%F0%9D%92%BD%F0%9D%92%BE%F0%9D%93%83%F0%9D%91%94+%F0%9D%93%81%F0%9D%92%BE%F0%9D%93%80%F0%9D%91%92+%F0%9D%93%89%F0%9D%92%BD%F0%9D%91%92+%F0%9D%93%82%F0%9D%91%92%F0%9D%93%82%F0%9D%91%9C%F0%9D%93%87%F0%9D%92%BE%F0%9D%91%92%F0%9D%93%88+%F0%9D%91%9C%F0%9D%92%BB+%F0%9D%91%9C%F0%9D%93%8A%F0%9D%93%87+%F0%9D%93%88%F0%9D%93%8A%F0%9D%93%82%F0%9D%93%82%F0%9D%91%92%F0%9D%93%87" alt="Typing SVG" /></a>
-</div>
 <div>
 	<hr>
 	<h2 align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&size=28&color=F700B8&repeat=false&random=false&width=205&height=40&lines=%F0%9D%92%9C%F0%9D%92%B7%F0%9D%91%9C%F0%9D%93%8A%F0%9D%93%89+%F0%9D%93%82%F0%9D%91%92" alt="Typing SVG" /></a></h2>
 	<div align="center">
-		<img width="250" height="150" src="https://media1.tenor.com/m/zrrOwE1vVQUAAAAC/%D0%B0%D0%B2%D1%82%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BC-%D0%BF%D0%BE-%D1%84%D0%B0%D0%B7%D0%B5-%D1%81%D0%BD%D0%B0-%D0%BA%D0%B8%D1%88%D0%BB%D0%B0%D0%BA.gif" align="right">
+		<img width="250" height="150" src="https://media1.tenor.com/m/K-U-GveR4DUAAAAd/tengen-uzui-tengen-wives.gif" align="right">
 	</div>
 	<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&color=F700B8&repeat=false&random=false&width=140&height=27&lines=-+Name%3A+Ivan" alt="Typing SVG" /></a>
 	<br>
